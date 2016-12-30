@@ -1,0 +1,9 @@
+create table signup1(user_id varchar2(20), password varchar2(20), name varchar2(22), father_name varchar2(26), address varchar2(100), date1 number(6),
+ month number(6),year number(6),mob number(10), email varchar2(32), sex varchar2(16));
+
+
+
+
+create table userenquiry(name varchar2(25),mob varchar2(10),email varchar2(30),city varchar2(15),enquiry varchar2(300));
+
+
